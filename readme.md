@@ -93,8 +93,8 @@ Pontos de atenção para quem for executar ou evoluir o script:
 
 Projeto desenvolvido por:
 
-- **Sandro**
-- **Vitor Froes**
+- **Sandro - 972411151**
+- **Vitor Froes - 972520349**
 
 ---
 <p align="center">
